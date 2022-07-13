@@ -1,0 +1,24 @@
+p {
+    font-family: Verdana,"DejaVuSamns",sans-serif;
+}
+.odd {
+    color:black;
+    background-color:lightcoral;
+    font-weight: lighter;
+}
+.odd#one {
+    font-size:15px;
+}
+
+#two {
+    color: blue;
+    font-size:36x;
+}
+.odd#three{
+    font-size:24px;
+}
+#fourth {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
